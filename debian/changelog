@@ -1,3 +1,9 @@
+ethtool (1:4.15-0ubuntu2~xenial0+exo1) xenial; urgency=medium
+
+  * Backport for Xenial.
+
+ -- Vincent Bernat <bernat@debian.org>  Thu, 01 Mar 2018 15:52:42 +0100
+
 ethtool (1:4.15-0ubuntu1) bionic; urgency=medium
 
   * New upstream release 4.15 (LP: #1750989)
